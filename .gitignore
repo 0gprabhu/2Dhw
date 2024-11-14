@@ -1,0 +1,16 @@
+# Ignore Unity specific files
+Library/
+Temp/
+Obj/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.idea/
+.gradle/
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
